@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-I'm a game developer, trying to build cool stuff.   
-I recently released my game [lootplot](https://store.steampowered.com/app/3057190/LOOTPLOT/)! :-)
-
+I'm a software engineer, trying to build cool stuff.   
+Super interested in emergent systems, economics and game theory.
+Currently trying to start my own business.
 
 
